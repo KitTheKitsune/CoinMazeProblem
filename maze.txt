@@ -1,0 +1,14 @@
+12
+12
+  c  c  c  c
+c  x x  c c 
+            
+xx c xx cx  
+  c  c  c  c
+c  x x  c c 
+            
+xx c xx cx  
+  c  c  xx x
+c  x x  c   
+            
+xx c xx cx  

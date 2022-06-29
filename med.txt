@@ -1,0 +1,22 @@
+20
+18
+   c    xc        
+  c         xcc   
+       c          
+  x cc            
+            c     
+           x     x
+  c  c         x  
+ x  x             
+c c      x    x   
+                  
+             c    
+ x c              
+c   c   x       c 
+                  
+x               c 
+     x     x     x
+    c             
+       cx c       
+            c  c  
+        c         
